@@ -7,3 +7,6 @@ further changes will be done in the next phase
 
 # adding remaining files
 nodemailer.js,package.json and package-lock.json are added
+
+# connected to remote repository using ssh
+updating in the remote repository after changes in readme.md file
